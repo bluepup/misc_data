@@ -5,21 +5,87 @@
       "wikidata": "Q157808",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-10-01", "to": "2024-10-13" },
-            { "from": "2025-02-08", "to": "2025-03-31" }
+            {
+              "from": "2023-10-01",
+              "to": "2023-10-15"
+            },
+            {
+              "from": "2024-02-16",
+              "to": "2024-03-31"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": [
+            {
+              "from": "2024-04-01",
+              "to": "2024-04-14"
+            },
+            {
+              "from": "2024-07-21",
+              "to": "2024-09-30"
+            }
+          ]
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
+          "ferien": [
+            {
+              "from": "2024-10-01",
+              "to": "2024-10-13"
+            },
+            {
+              "from": "2025-02-08",
+              "to": "2025-03-31"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-23", "end": "2025-07-25" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-23",
+            "end": "2025-07-25"
+          },
           "ferien": [
-            { "from": "2025-04-01", "to": "2025-04-22" },
-            { "from": "2025-07-26", "to": "2025-09-30" }
+            {
+              "from": "2025-04-01",
+              "to": "2025-04-22"
+            },
+            {
+              "from": "2025-07-26",
+              "to": "2025-09-30"
+            }
           ]
         }
       ]
@@ -29,15 +95,61 @@
       "wikidata": "Q55044",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": [
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-06"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": [
+            {
+              "from": "2024-05-20",
+              "to": "2024-05-27"
+            }
+          ]
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-23", "end": "2025-07-25" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-23",
+            "end": "2025-07-25"
+          },
           "ferien": []
         }
       ]
@@ -47,17 +159,61 @@
       "wikidata": "Q152087",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-15" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-23", "to": "2025-01-04" }
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-04"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-15"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-23",
+              "to": "2025-01-04"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-19" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-19"
+          },
           "ferien": []
         }
       ]
@@ -67,17 +223,61 @@
       "wikidata": "Q156146",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-15" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-23", "to": "2025-01-04" }
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-04"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-15"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-23",
+              "to": "2025-01-04"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-15", "end": "2025-07-20" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-15",
+            "end": "2025-07-20"
+          },
           "ferien": []
         }
       ]
@@ -87,17 +287,61 @@
       "wikidata": "Q156883",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-23", "to": "2025-01-06" }
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-06"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-23",
+              "to": "2025-01-06"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-25" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-25"
+          },
           "ferien": []
         }
       ]
@@ -107,15 +351,51 @@
       "wikidata": "Q156689",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-08" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-08"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-22", "end": "2025-07-26" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-22",
+            "end": "2025-07-26"
+          },
           "ferien": []
         }
       ]
@@ -125,17 +405,61 @@
       "wikidata": "Q157939",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-21", "end": "2025-02-07" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-23", "to": "2025-01-03" }
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-03"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-21",
+            "end": "2025-02-07"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-23",
+              "to": "2025-01-03"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-18" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-18"
+          },
           "ferien": []
         }
       ]
@@ -145,15 +469,45 @@
       "wikidata": "Q157226",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
           "semester": null,
-          "vorlesungszeit": { "start": "2024-10-07", "end": "2025-01-31" },
+          "vorlesungszeit": {
+            "start": "2024-10-07",
+            "end": "2025-01-31"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
           "semester": null,
-          "vorlesungszeit": { "start": "2025-04-07", "end": "2025-07-18" },
+          "vorlesungszeit": {
+            "start": "2025-04-07",
+            "end": "2025-07-18"
+          },
           "ferien": []
         }
       ]
@@ -163,19 +517,66 @@
       "wikidata": "Q157852",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-01" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-22", "to": "2025-01-05" }
+            {
+              "from": "2023-12-22",
+              "to": "2024-01-05"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-01"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-22",
+              "to": "2025-01-05"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-07", "end": "2025-07-19" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-07",
+            "end": "2025-07-19"
+          },
           "ferien": [
-            { "from": "2025-05-25", "to": "2025-06-01" }
+            {
+              "from": "2025-05-25",
+              "to": "2025-06-01"
+            }
           ]
         }
       ]
@@ -185,23 +586,84 @@
       "wikidata": "Q157589",
       "terms": [
         {
-          "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-07", "end": "2025-01-31" },
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
           "ferien": [
-            { "from": "2024-12-23", "to": "2025-01-06" }
+            {
+              "from": "2023-12-23",
+              "to": "2024-01-06"
+            }
+          ]
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Wintersemester 2024/25",
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-07",
+            "end": "2025-01-31"
+          },
+          "ferien": [
+            {
+              "from": "2024-12-23",
+              "to": "2025-01-06"
+            }
           ]
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-07", "end": "2025-07-18" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-07",
+            "end": "2025-07-18"
+          },
           "ferien": [
-            { "name": "Ostern", "from": "2025-04-18", "to": "2025-04-21" },
-            { "name": "Tag der Arbeit", "date": "2025-05-01" },
-            { "name": "Christi Himmelfahrt", "date": "2025-05-29" },
-            { "name": "Pfingsten", "from": "2025-06-09", "to": "2025-06-13" },
-            { "name": "Fronleichnam", "date": "2025-06-19" }
+            {
+              "name": "Ostern",
+              "from": "2025-04-18",
+              "to": "2025-04-21"
+            },
+            {
+              "name": "Tag der Arbeit",
+              "date": "2025-05-01"
+            },
+            {
+              "name": "Christi Himmelfahrt",
+              "date": "2025-05-29"
+            },
+            {
+              "name": "Pfingsten",
+              "from": "2025-06-09",
+              "to": "2025-06-13"
+            },
+            {
+              "name": "Fronleichnam",
+              "date": "2025-06-19"
+            }
           ]
         }
       ]
@@ -211,15 +673,51 @@
       "wikidata": "Q156937",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-14" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-14"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-19" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-19"
+          },
           "ferien": []
         }
       ]
@@ -229,15 +727,45 @@
       "wikidata": "Q157769",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
           "semester": null,
-          "vorlesungszeit": { "start": "2024-10-07", "end": "2025-01-31" },
+          "vorlesungszeit": {
+            "start": "2024-10-07",
+            "end": "2025-01-31"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
           "semester": null,
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-26" },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-26"
+          },
           "ferien": []
         }
       ]
@@ -247,15 +775,51 @@
       "wikidata": "Q157439",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-25" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-25"
+          },
           "ferien": []
         }
       ]
@@ -265,15 +829,51 @@
       "wikidata": "Q157692",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-25" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-25"
+          },
           "ferien": []
         }
       ]
@@ -283,15 +883,51 @@
       "wikidata": "Q157372",
       "terms": [
         {
+          "Name": "Wintersemester 2023/24",
+          "semester": {
+            "start": "2023-10-01",
+            "end": "2024-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2023-10-16",
+            "end": "2024-02-15"
+          },
+          "ferien": []
+        },
+        {
+          "Name": "Sommersemester 2024",
+          "semester": {
+            "start": "2024-04-01",
+            "end": "2024-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2024-04-15",
+            "end": "2024-07-20"
+          },
+          "ferien": []
+        },
+        {
           "Name": "Wintersemester 2024/25",
-          "semester": { "start": "2024-10-01", "end": "2025-03-31" },
-          "vorlesungszeit": { "start": "2024-10-14", "end": "2025-02-07" },
+          "semester": {
+            "start": "2024-10-01",
+            "end": "2025-03-31"
+          },
+          "vorlesungszeit": {
+            "start": "2024-10-14",
+            "end": "2025-02-07"
+          },
           "ferien": []
         },
         {
           "Name": "Sommersemester 2025",
-          "semester": { "start": "2025-04-01", "end": "2025-09-30" },
-          "vorlesungszeit": { "start": "2025-04-14", "end": "2025-07-19" },
+          "semester": {
+            "start": "2025-04-01",
+            "end": "2025-09-30"
+          },
+          "vorlesungszeit": {
+            "start": "2025-04-14",
+            "end": "2025-07-19"
+          },
           "ferien": []
         }
       ]
